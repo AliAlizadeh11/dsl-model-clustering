@@ -28,9 +28,3 @@ This project introduces a **Domain-Specific Language (DSL)** tailored specifical
 ## Motivation
 
 Due to the complexity and diversity of clustering algorithms, using a DSL provides a powerful abstraction layer. Users can define clustering workflows without deep knowledge of programming or machine learning internals.
-
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/clustering-dsl.git
-   cd clustering-dsl
