@@ -6,7 +6,6 @@ In today's fast-paced digital world, **data** is one of the most valuable assets
 
 This project introduces a **Domain-Specific Language (DSL)** tailored specifically for data clustering tasks. The DSL is designed to simplify the process of defining, executing, and analyzing clustering algorithms using a human-readable syntax.
 
----
 
 ## Features
 
@@ -23,7 +22,6 @@ This project introduces a **Domain-Specific Language (DSL)** tailored specifical
 - 🧩 Includes a **Custom Listener** to generate and traverse Abstract Syntax Trees (AST)
 - 🚀 High extensibility for researchers, data scientists, and students
 
----
 
 ## Motivation
 
